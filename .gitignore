@@ -1,0 +1,6 @@
+# Compiled output (Eclipse build folder)
+bin/
+*.class
+
+# macOS
+.DS_Store
